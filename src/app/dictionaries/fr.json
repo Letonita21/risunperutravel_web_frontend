@@ -1,0 +1,290 @@
+{
+    "Navbar": {
+        "inicio": "Accueil",
+        "nosotros": "Home",
+        "contactenos": "Contactez-nous",
+        "blog": "Blog de voyage",
+        "consulta": "CONSULTEZ MAINTENANT",
+        "buscar": "Rechercher..."
+    },
+    "Footer": {
+        "Amazonia": "Amazonie",
+        "Arequipa": "Arequipa",
+        "Cusco": "Cusco",
+        "Lima": "Lima",
+        "Puno": "Puno",
+        "Servicios": "Services",
+        "derechos": "Tous droits réservés",
+        "pagos": "Méthodes de paiement",
+        "contactos": "Contacts",
+        "Nosotros": "À propos",
+        "TerminosYCondiciones": "Conditions générales",
+        "PoliticasDePrivacidad": "Politique de confidentialité",
+        "PoliticasDeCancelacion": "Politique d'annulation",
+        "PoliticaIntegradaDeCalidad": "Politique Intégrée de Qualité",
+        "CreaTuViaje": "Créez votre voyage",
+        "CodigoEsnna": "Code ESNNA",
+        "AyudaSocial": "Aide à l'enfance",
+        "BlogDeviajes": "Blog de voyage",
+        "descripcion": "Nous sommes experts dans la création d’expériences uniques dans les Andes, connectant les voyageurs à la richesse culturelle, historique et naturelle du monde inca. Découvrez le Pérou authentique avec nous !"
+    },
+    "Body": {
+        "fraseAgencia": "Voyager, c'est évoluer!!!",
+        "verMas": "Voir plus",
+        "operador": "Opérateurs de Cusco, 100% Péruviens",
+        "ayuda": "Aide à l'enfance",
+        "opiniones": "Avis",
+        "reserva": "Réservez maintenant!",
+        "medida": "Voyages sur mesure",
+        "terresDescripcion": "<p>Nous sommes une <strong>agence de voyages à Cusco</strong>, spécialisée dans la création d’expériences authentiques et mémorables pour chaque voyageur. Notre engagement est de proposer des <strong>circuits personnalisés</strong> qui allient aventure, culture et confort, en s’adaptant à vos intérêts et à votre rythme. Nous vous connectons aux <strong>destinations les plus emblématiques du Pérou</strong>, telles que <strong>Machu Picchu et la Vallée Sacrée</strong>, mais aussi aux lieux moins connus qui préservent l’essence de notre <strong>tradition andine</strong>. Voyager, c’est plus que visiter des endroits : c’est <strong>vivre des histoires, partager avec les communautés locales et découvrir la richesse culturelle</strong> du pays. Avec le soutien d’une <strong>équipe experte</strong> et l’utilisation d’un équipement de qualité, nous garantissons sécurité, confiance et une expérience enrichissante dans chaque itinéraire. Notre objectif est que chaque voyage devienne un souvenir inoubliable, rempli de moments qui vous inspirent et vous connectent profondément à la <strong>magie du Pérou</strong>.</p>",
+        "terresDescription": "Nous sommes votre agence de voyages, vous proposant des expériences authentiques et mémorables. Nous offrons des circuits personnalisés alliant aventure, culture et confort, vous connectant aux destinations les plus emblématiques du Pérou ainsi qu’à ses trésors cachés. Notre équipe d’experts et l’utilisation d’un équipement de qualité garantissent sécurité et richesse d’expérience à chaque itinéraire.",
+        "valores1": "Spécialistes passionnés",
+        "valoresDescripcioin1": "Nous sommes une équipe passionnée de spécialistes du voyage, reconnue pour offrir des expériences exceptionnelles vers des lieux tels que le Machu Picchu, le Chemin de l’Inca, Choquequirao, Huchuy Qosqo, Lares et la Montagne aux Sept Couleurs.",
+        "valores2": "Sécurité",
+        "valoresDescripcioin2": "Votre sécurité et votre confort sont notre priorité. C’est pourquoi nous proposons des circuits individuels et en petits groupes, garantissant une expérience personnalisée et exclusive.",
+        "valores3": "Transparence",
+        "valoresDescripcioin3": "Nous nous engageons à être transparents dans toutes nos opérations. Nous proposons des prix clairs et détaillés, accompagnés d’un contrat légal complet pour votre tranquillité d’esprit, basé sur des conditions conformes à la loi. Vous recevrez exactement ce qui a été convenu, sans surprises ni frais cachés.",
+        "desde": "Réservez maintenant avec",
+        "portada": {
+            "id1": {
+                "id": 217
+            },
+            "id2": {
+                "id": 131
+            },
+            "id3": {
+                "id": 239
+            },
+            "id4": {
+                "id": 216
+            }
+        },
+        "imperdibles": {
+            "machupicchu": {
+                "id": 197,
+                "descripcion": "Discover this world wonder and feel the magic of the sacred Inca citadel."
+            },
+            "colores": {
+                "id": 202,
+                "descripcion": "Dare to conquer the rainbow of the Andes and witness a landscape unlike any other."
+            },
+            "salineras": {
+                "id": 203,
+                "descripcion": "Explore the stunning Maras salt mines, a unique landscape of thousands of white pools shining under the Andean sun."
+            },
+            "valleSagrado": {
+                "id": 204,
+                "descripcion": "Travel to the heart of the Andes and discover ancestral villages, living culture, and breathtaking scenery."
+            },
+            "cityTour": {
+                "id": 134,
+                "descripcion": "Explore the imperial city—its streets, temples, and corners filled with history and legend."
+            },
+            "sieteLagunas": {
+                "id": 133,
+                "descripcion": "Embark on a magical journey through multicolored lagoons at the foot of Ausangate glacier."
+            }
+        },
+        "dia1": "1 jour",
+        "duracion": "Durée",
+        "masDetalles": "En savoir plus",
+        "descripcionImperdibles": "<p>Les <strong>lieux incontournables de Cusco</strong> vous attendent avec histoire, culture et paysages uniques. De <strong>Machu Picchu</strong> et la <strong>Vallée Sacrée</strong> à la <strong>Montagne aux Sept Couleurs</strong> et aux <strong>7 Lagunes d’Ausangate</strong>, chaque destination offre une expérience inoubliable. Connectez-vous à la <strong>tradition andine</strong> et vivez des moments qui feront de votre voyage un souvenir éternel. <strong>Cusco vous attend</strong>.</p>",
+        "nombreImperdibles": "Circuits incontournables à Cusco",
+        "caminatas": {
+            "salkantay": {
+                "id": 128,
+                "descripcion": "L’un des itinéraires les plus exigeants et les plus beaux vers Machu Picchu, entouré de glaciers, de lagunes turquoise et de paysages à couper le souffle."
+            },
+            "caminoInca": {
+                "id": 240,
+                "descripcion": "Le sentier le plus célèbre et emblématique vers Machu Picchu—un mélange d’histoire, de culture et de nature à chaque pas."
+            },
+            "choquequirao": {
+                "id": 131,
+                "descripcion": "Explorez la « sœur sacrée » de Machu Picchu, un site archéologique majestueux entouré de montagnes et de mystère."
+            },
+            "huchuyQosqo": {
+                "id": 199,
+                "descripcion": "Un sentier court mais riche en histoire, reliant des ruines incas à des paysages magiques de la Vallée Sacrée."
+            },
+            "ausangate": {
+                "id": 130,
+                "descripcion": "Aventure dans les hauteurs andines avec des sommets enneigés imposants, des lagunes colorées et la célèbre montagne aux Sept Couleurs."
+            },
+            "lares": {
+                "id": 129,
+                "descripcion": "Une randonnée culturelle et naturelle, où vous rencontrerez des communautés andines vivantes, profiterez de sources thermales et admirerez des paysages uniques."
+            }
+        },
+        "nombreCaminatas": "Randonnées à Cusco",
+        "descripcionCaminatas": "<p>Explorez les treks les plus impressionnants de Cusco: du légendaire Chemin Inca au défi du Salkantay. Découvrez la majesté de Choquequirao, l’histoire de Huchuy Qosqo et la magie de Ausangate et Lares. Chaque randonnée vous relie à des paysages uniques et à l’essence vivante des Andes.</p>",
+        "mejorPeru": {
+            "idMuseoLarco": 205,
+            "idParqueAguas": 206,
+            "idEncantoDecierto": 209,
+            "idColca": 210,
+            "idSillar": 211,
+            "idTiticaca": 212,
+            "idSillustani": 213,
+            "idSandoval": 214,
+            "idTaricaya": 215
+        },
+        "tripAdvisorComentarios": "Avis",
+        "tituloMejorPeru": "Le Meilleur du Pérou",
+        "descripcionMejorPeru": "<p>Nous vous invitons à découvrir les <strong>meilleurs endroits du Pérou</strong>, une terre magique où les <strong>Andes</strong> touchent le ciel, où l’<strong>Amazonie</strong> garde des secrets ancestraux et où l’<strong>Océan Pacifique</strong> caresse la côte. Laissez-vous émerveiller par <strong>Machu Picchu</strong>, les énigmatiques <strong>Lignes de Nazca</strong> et les villages qui maintiennent vivantes leurs traditions. <strong>Profitez d’une gastronomie reconnue comme l’une des meilleures au monde</strong> et vivez des expériences uniques qui feront de votre voyage un souvenir éternel… <strong>Le Pérou vous attend à bras ouverts.</strong></p>",
+        "vivencialTitulo": "Tourisme Vivenciel au Pérou",
+        "vivencialDescripcion": "<p>Le tourisme expérientiel à Cusco vous invite à vous immerger dans la vie des communautés locales, où vous pouvez vivre leurs traditions, partager leurs coutumes et participer à leurs festivités pleines de couleur et de sens. Vous n’êtes pas un simple visiteur : vous devenez partie de leur quotidien, vous apprenez de leur culture ancestrale et profitez d’expériences authentiques qui vont au-delà du conventionnel. De la préparation de plats typiques à la participation à des rituels andins, chaque moment est une occasion de vous connecter à l’essence des Andes. Ce type de voyage transforme votre regard, laissant des souvenirs profonds et un lien réel avec les personnes qui maintiennent vivantes leurs racines. Vivre Cusco, c’est vivre son peuple.</p>",
+        "vivencial": {
+            "idPatabamba": 217,
+            "idPatacancha": 216,
+            "idLlachon": 218,
+            "idAmantani": 219
+        },
+        "nombrePatacancha": "Expérience à Patacancha",
+        "actividadesPatacancha": [
+            "Cérémonie de bienvenue",
+            "Rituel Tinka avec les alpagas",
+            "Déjeuner traditionnel : Pachamanca andine",
+            "Activités vivencielles avec les familles locales"
+        ],
+        "duracionPatacancha": "1 jour",
+        "descripcionPatacancha": "Vivez une expérience andine authentique à Patacancha, où en une seule journée vous profiterez de cérémonies ancestrales, d’un déjeuner traditionnel de pachamanca et d’activités culturelles avec les familles locales. Connectez-vous à la culture vivante des Andes grâce au tourisme vivenciel.",
+        "nombrePatabamba": "Patabamba – Tour Vivenciel",
+        "actividadesPatabamba": [
+            "Cérémonie de bienvenue traditionnelle",
+            "Démonstration de tissage traditionnel avec teintures naturelles",
+            "Activité agricole (semis, récolte ou labour avec des bœufs)",
+            "Petite randonnée vers les miradors de Patabamba",
+            "Atelier de plantes médicinales ou de cuisine andine",
+            "Déjeuner typique andin : Pachamanca"
+        ],
+        "duracionPatabamba": "1 jour",
+        "descripcionPatabamba": "Découvrez Patabamba, à seulement une heure et demie de Cusco, où vous pourrez partager avec des familles locales, apprendre des coutumes ancestrales, participer à des activités traditionnelles et savourer une pachamanca andine dans un cadre culturel et naturel inoubliable.",
+        "nombreLlachon": "Vivre le Titicaca Profond",
+        "actividadesLlachon": [
+            "Navigation vers la communauté de Llachón",
+            "Déjeuner traditionnel",
+            "Discussion sur les apus, les rythmes agricoles et les savoirs andins",
+            "Pêche traditionnelle avec filet",
+            "Teinture et tissage avec laine de mouton ou d’alpaga",
+            "Travaux agricoles selon la saison",
+            "Randonnée vers le mirador de Llachón",
+            "Navigation vers Taquile",
+            "Balade et visite culturelle"
+        ],
+        "duracionLlachon": "3 jours / 2 nuits",
+        "descripcionLlachon": "Vivez une expérience unique au lac Titicaca, en séjournant dans la communauté de Llachón sur la péninsule de Capachica. Pendant trois jours, vous partagerez la vie quotidienne avec les familles locales, participerez à leurs activités, visiterez les îles Uros et Taquile, et vous connecterez à l’essence andine dans un cadre authentique, naturel et riche en traditions.",
+        "nombreAmantani": "Lac Titicaca et Amantani",
+        "actividadesAmantani": [
+            "Navigation vers les îles Uros",
+            "Visite des îles Uros",
+            "Navigation vers Amantani",
+            "Arrivée et accueil",
+            "Après-midi de marche et de rituels",
+            "Navigation vers Taquile",
+            "Randonnée jusqu’au village",
+            "Présentation culturelle",
+            "Techniques de tissage au métier",
+            "Symbolisme des textiles"
+        ],
+        "duracionAmantani": "2 jours / 1 nuit",
+        "descripcionAmantani": "Vivez une expérience authentique au lac Titicaca et à Amantani, en séjournant chez des familles locales, en partageant leurs coutumes et en parcourant des sentiers ancestraux. Connectez-vous à la culture vivante, à l’essence andine et à la magie d’un lieu sacré sous le ciel étoilé de l’altiplano."
+    },
+    "Tour": {
+        "flotanteHorizontal": {
+            "precio": "Prix",
+            "grupo": "Groupe :",
+            "ubicacion": "Emplacement",
+            "duracion": "Durée",
+            "altura": "Altitude",
+            "dificultad": "Difficulté",
+            "dia": "jour",
+            "dias": "jours",
+            "muyFacil": "Très facile",
+            "facil": "Facile",
+            "moderado": "Modéré",
+            "difcil": "Difficile",
+            "extremo": "Extrême"
+        },
+        "cuerpo": {
+            "descripcion": "Description",
+            "itinerario": "Itinéraire",
+            "incluye": "Comprend",
+            "noIncluye": "Non inclus",
+            "recomendaciones": "Recommandations",
+            "galeria": "Galerie de photos",
+            "mapa": "Carte",
+            "pregunta": "Questions fréquentes",
+            "responsable": "Pour un tourisme responsable et durable",
+            "verMas": "Lire plus",
+            "verMenos": "Lire moins",
+            "responsableContenido": "Le paiement de chaque expérience est réparti de manière responsable et transparente afin de générer un impact réel et positif au Pérou"
+        },
+        "formulario": {
+            "titulo": "Réserver ou Demander",
+            "nombres": "Nom et Prénom",
+            "pais": "Pays",
+            "correo": "E-mail",
+            "fecha": "Date d’arrivée",
+            "cantidad": "Nombre de voyageurs",
+            "adicional": "Message supplémentaire",
+            "mensaje": "écrivez votre message ici...",
+            "numero": "Numéro de téléphone",
+            "enviar": "Envoyer"
+        },
+        "flotanteVertical": {
+            "desde": "Réservez maintenant avec",
+            "reserva": "Réserver/Demander maintenant",
+            "whatsapp": "Réserver/Demander via WhatsApp",
+            "masDetalles": "En savoir plus",
+            "dia": "jour",
+            "dias": "jours",
+            "mensaje": "Bonjour, je souhaite obtenir plus d’informations sur le circuit"
+        },
+        "encontrar": "Trouvés",
+        "para": "avec :",
+        "resultados": "résultats"
+    },
+    "TerminosYCondiciones": {
+        "nombre": "Termes et Conditions",
+        "contenido": "<p>Bienvenue à l’expérience inoubliable de <strong>Risun Peru Travel S.A.C.</strong></p><p>En réservant avec nous, vous accédez à un service premium soutenu par plus d’une décennie d’expérience au Pérou. Veuillez lire attentivement les points suivants ; chaque clause a été rédigée pour vous protéger et garantir la qualité qui caractérise Risun Peru Travel.</p><h2><strong>Contrat de voyage</strong></h2><p>Le contrat est formalisé lorsque <strong>Risun Peru Travel S.A.C.</strong> confirme par écrit la réception du dépôt initial. À partir de ce moment, les deux parties sont protégées par les dispositions du Décret Législatif 686 (Régime de protection du consommateur) et de la Loi n° 30042 (Loi générale du tourisme). La personne qui signe la réservation déclare avoir l’autorisation complète des autres voyageurs.</p><h2><strong>Facilités de paiement</strong></h2><ul><li>Dépôt initial : 600 USD (non remboursable, sauf force majeure prouvée).</li><li>Moyens de paiement : carte de crédit/débit (Visa, MC), virement SWIFT ou Western Union.</li><li>Commission de passerelle de paiement : 5,5 % (seul coût supplémentaire, transparent et toujours communiqué à l’avance).</li></ul><h2><strong>Transparence fiscale</strong></h2><p>Tous les prix sont exprimés en Dollars Américains et incluent la TVA lorsque cela s’applique. Les passagers qui remplissent les conditions d’exonération de TVA (touristes séjournant moins de 60 jours) doivent présenter un passeport original valide et la TAM (Carte andine de migration) au moment du check-in.</p><h2><strong>Flexibilité pour les changements du client</strong></h2><p>Nous savons que les plans peuvent varier. C’est pourquoi nous offrons :</p><ul><li>Premier changement gratuit si demandé 60 jours ou plus à l’avance.</li><li>Changements ultérieurs : frais administratifs de 60 USD + différences réelles avec les prestataires.</li><li>Substitution de passager : possible jusqu’à 90 jours avant (frais 80 USD) sauf pour les randonnées du Chemin Inca.</li></ul><h2><strong>Engagement d’opération</strong></h2><p>Risun Peru Travel S.A.C. s’engage à exécuter le tour exactement comme vendu. Nous ne varierons l’itinéraire que pour :</p><ul><li>Sécurité du groupe.</li><li>Ordres des autorités publiques.</li><li>Force majeure.</li></ul><p>Dans ces cas, nous proposerons des alternatives de valeur égale ou supérieure.</p><p>Sécurité et assistance 24/7</p><h2><strong>Pendant votre voyage vous disposerez de :</strong></h2><ul><li>Ligne directe WhatsApp pour assistance en espagnol et en anglais.</li><li>Guides certifiés avec premiers secours et oxygène portable.</li><li>Protocole d’évacuation médicale avec assurance assistance voyage (optionnelle à 1 % de la valeur du tour).</li></ul><h2><strong>Conditions d’entrée dans le pays</strong></h2><p>Il est de la responsabilité du voyageur de disposer d’un passeport valide ≥ 6 mois, d’un visa (si applicable) et de vaccins à jour (fièvre jaune pour la forêt amazonienne). Risun Peru Travel S.A.C. fournit des conseils gratuits et une documentation officielle.</p><h2><strong>Attention personnalisée et réclamations</strong></h2><p>Votre satisfaction est notre priorité. En cas d’incident :</p><ul><li>Informez-en immédiatement le guide ou notre centrale (+51 927466911).</li><li>Si cela persiste, communiquez-le par écrit dans un délai maximum de 15 jours après la fin du tour.</li><li>Nous nous engageons à résoudre tout problème dans les 24 heures ouvrables suivant la notification.</li></ul><h2><strong>Réservations aériennes</strong></h2><p><strong>Risun Peru Travel S.A.C.</strong> émet et gère vos vols internes avec les tarifs les plus bas du marché. Une fois émis, les billets ne sont ni remboursables ni transférables, sauf si la compagnie aérienne autorise des changements (gérés avec un coût supplémentaire pour le client).</p><h2><strong>Acceptation de ces conditions</strong></h2><p>En versant le dépôt, vous reconnaissez avoir lu, compris et accepté intégralement ces conditions, qui régissent la relation entre vous et Risun Peru Travel S.A.C. et remplacent tout accord antérieur, verbal ou écrit.</p><p><strong>Merci d’avoir choisi Risun Peru Travel S.A.C.</strong></p>",
+        "frase": "Que votre voyage soit aussi extraordinaire que la terre qui l’inspire !"
+    },
+    "PoliticaDeCancelacion": {
+        "nombre": "Politique d’annulation",
+        "contenido": "<p>Nous savons que parfois les plans changent. C’est pourquoi nous expliquons clairement notre politique d’annulation, afin que vous puissiez prendre des décisions éclairées en toute confiance.</p><h2><strong>Important :</strong></h2><ul><li>Pour les circuits de <strong>5 jours ou plus</strong>, un <strong>dépôt non remboursable de 300 USD par personne</strong> est requis. Ce dépôt sert à garantir les permis, billets, hôtels et autres services qui ne sont ni modifiables ni remboursables.</li><li>Pour les circuits de <strong>moins de 5 jours</strong>, un <strong>dépôt non remboursable de 600 USD par personne</strong> ou <strong>30 % de la valeur du circuit</strong> est requis.</li></ul><h2><strong>Forfaits avec hébergement à l’hôtel :</strong></h2><p>Le montant des dépôts peut varier selon la catégorie de l’hôtel (3, 4 ou 5 étoiles), car ceux-ci exigent généralement des paiements anticipés non remboursables.</p><h2><strong>Si vous devez annuler votre voyage :</strong></h2><h2>Circuits de 8 jours ou plus :</h2><ul><li>Annulation 60 jours ou plus avant le départ : dépôt non remboursable.</li></ul><h2><strong>Flexibilité pour les changements du client</strong></h2><p>Nous savons que les plans peuvent varier. C’est pourquoi nous offrons :</p><ul><li>Plus de 90 jours avant la date de début du circuit : <p>Vous avez droit au remboursement des paiements supplémentaires effectués, à l’exception du dépôt initial de 600 USD.</p></li><li>Dans les 90 jours précédant le début du circuit : <p>Aucun remboursement ne sera effectué, car les hôtels, transports, permis et autres services logistiques auront déjà été confirmés et payés.</p></li></ul><h2>Circuits de moins de 8 jours :</h2><ul><li>Plus de 70 jours avant la date de début du circuit : <p>Vous avez droit au remboursement des paiements supplémentaires effectués, à l’exception du dépôt initial de 400 USD.</p></li><li>Dans les 90 jours précédant le début du circuit : <p>Aucun remboursement ne sera effectué, car les hôtels, transports, permis et autres services logistiques auront déjà été confirmés et payés.</p></li></ul><h2><strong>Paiement final du circuit</strong></h2><h2>Option recommandée :</h2><p>Payez le solde restant en espèces (USD ou soles péruviens) dans notre bureau de Cusco afin d’éviter le supplément de <strong>5,5 % pour traitement.</strong></p><h2><strong>Paiement anticipé en ligne :</strong></h2><ul><li>Vous pouvez payer le solde restant via PayPal, Visa ou MasterCard (des frais de 5,5 % s’appliquent).</li><li>Tous les paiements finaux en ligne doivent être effectués <strong>96 heures (4 jours)</strong> avant le début du circuit.</li><li>Le non-respect de ce délai peut entraîner l’<strong>annulation automatique sans remboursement.</strong></li></ul><h2><strong>Comment demander une annulation</strong></h2><p>Envoyez votre demande par e-mail à : <strong>asistencia@terresdesincas.com</strong>. Nous serons ravis de vous aider.</p><h2><strong>Circuits de 8 jours ou plus :</strong></h2><p>En cas d’annulation, Risun Peru Travel appliquera les retenues suivantes sur les paiements effectués, selon le nombre de jours d’anticipation avec lequel l’annulation est demandée.</p><table border='1' cellspacing='0' cellpadding='8'><thead style='background-color: orange; color: white;'><tr><th>Délai avant le début du circuit</th><th>Pourcentage du prix total du circuit</th></tr></thead><tbody><tr><td>De 90 à 61 jours avant</td><td>80 % du prix total du circuit</td></tr><tr><td>De 60 à 21 jours avant</td><td>50 % du coût total du circuit</td></tr><tr><td>Moins de 21 jours avant</td><td>100 % du prix total du circuit</td></tr></tbody></table><h2><strong>Circuits de moins de 8 jours :</strong></h2><p>En cas d’annulation, Risun Peru Travel appliquera les retenues suivantes sur les paiements effectués, selon le nombre de jours d’anticipation avec lequel l’annulation est demandée.</p><table border='1' cellspacing='0' cellpadding='8'><thead style='background-color: orange; color: white;'><tr><th>Délai avant le début du circuit</th><th>Pourcentage du prix total du circuit</th></tr></thead><tbody><tr><td>De 70 à 50 jours avant</td><td>80 % du prix total du circuit</td></tr><tr><td>De 49 à 20 jours avant</td><td>50 % du coût total du circuit</td></tr><tr><td>Moins de 20 jours avant</td><td>100 % du prix total du circuit</td></tr></tbody></table>",
+        "fraseFinal": "En tant qu’agence de voyages, nous effectuons de nombreux paiements anticipés non remboursables pour garantir votre expérience. Ces frais nous permettent de couvrir ces coûts. Si vous avez besoin d’une lettre officielle d’annulation pour votre assurance voyage, nous serons heureux de vous la fournir sur demande."
+    },
+    "PoliticaDeCalidad": {
+        "nombre": "Politique Intégrée de Qualité, Environnement et Gestion",
+        "contenido": "<h2><strong>Mission normative</strong></h2><p>Établir les principes directeurs qui orientent chaque décision de Risun Peru Travel S.A.C. afin de :</p><ul><li>Offrir des expériences de voyage exceptionnelles.</li><li>Minimiser l’empreinte environnementale et sociale.</li><li>Maximiser le retour positif pour les communautés, les collaborateurs et les voyageurs.</li></ul><h2><strong>Portée opérationnelle</strong></h2><p>Applicable à tous les processus, produits et services touristiques que nous concevons, commercialisons ou opérons au Pérou, en Bolivie et dans tout point de notre réseau de destinations, incluant l’ensemble de la chaîne de valeur (fournisseurs, partenaires, destinations et voyageurs).</p><h2><strong>Cadre juridique et de référence</strong></h2><ul><li>Loi n° 30042 – Loi générale du tourisme</li><li>Conventions OIT 138 et 182</li><li>Loi n° 30709 – Gestion du changement climatique</li><li>Politique nationale de l’environnement et des ressources naturelles</li><li>Normes GSTC – Global Sustainable Tourism Council</li></ul><h2><strong>Principes directeurs</strong></h2><ul><li><strong>Excellence opérationnelle</strong></br>Produits qui dépassent les normes internationales de qualité et de sécurité ; objectif : satisfaction ≥ 90 % trimestrielle.</li><li><strong>Durabilité environnementale</strong></br>Réduction annuelle mesurée et vérifiée :<ul><li>Empreinte carbone opérationnelle : –3 %</li><li>Plastiques à usage unique : –10 %</li><li>Consommation d’eau et d’énergie dans les campements : –5 %</li></ul></li><li><strong>Respect culturel et social</strong><ul><li>Consentement préalable, libre et éclairé (CPLE) dans chaque communauté.</li><li>≥ 8 % de la valeur vendue destinée à des projets communautaires.</li><li>Respect absolu du Code de conduite pour la protection des enfants et adolescents dans le tourisme.</li></ul></li><li><strong>Éthique et conformité réglementaire</strong></br>Zéro tolérance envers le travail des enfants, l’exploitation ou la discrimination ; respect strict de toute législation du travail, environnementale et touristique en vigueur.</li><li><strong>Amélioration continue</strong><ul><li>Audits internes semestriels et externes annuels.</li><li>≥ 20 h de formation annuelle par collaborateur.</li><li>Révision des objectifs et des buts par la Direction générale tous les six mois.</li></ul></li></ul><h2><strong>Responsabilités</strong></h2><ul><li>Direction générale : attribuer les ressources, définir les objectifs et examiner les résultats.</li><li>Responsable Qualité et Durabilité : diriger la mise en œuvre, tenir les registres.</li><li>Tous les collaborateurs : appliquer les procédures et signaler les écarts.</li></ul><h2><strong>Communication et diffusion</strong></h2><ul><li>Induction obligatoire pour les nouveaux collaborateurs.</li><li>Affichage dans les bureaux, campements et véhicules.</li><li>Publication permanente sur le site web et les réseaux sociaux.</li></ul><h2><strong>Révision et mise à jour</strong></h2><p>Révision annuelle obligatoire, ou plus tôt en cas de changements réglementaires pertinents. Approbation et communication par la Direction générale.</p><p>« Nous marchons avec respect, opérons avec excellence et laissons une empreinte positive dans chaque destination. »</p>"
+    },
+    "PoliticaDePrivacidad": {
+        "nombre": "Politique de Protection et de Confidentialité des Données Personnelles",
+        "contenido": "<p>Chez <strong>Risun Peru Travel</strong> S.A.C. (« L’AGENCE »), nous protégeons vos informations comme nous prenons soin de chaque détail de votre voyage. Cette politique, rédigée conformément à la Loi n° 29733 et à son Règlement, décrit comment nous collectons, protégeons et utilisons vos données personnelles afin de vous offrir un service exceptionnel et de continuer à nous améliorer jour après jour.</p><ul><li>Identité du titulaire de la base de données</li><li>Raison sociale : Risun Peru Travel S.A.C.</li><li>RUC : 20613977539</li><li>Email du responsable de la protection des données (DPO) : privacidad@terresdesincas.com</li></ul><h2>Données que nous collectons</h2><p>Nous ne demandons que les informations strictement nécessaires pour :</p><ul><li>Concevoir et confirmer votre programme de voyage.</li><li>Gérer les réservations, les paiements et l’assistance 24/7.</li><li>Vous tenir informé des nouvelles expériences, des offres exclusives et du contenu de valeur.</li><li>Respecter les obligations légales et réglementaires.</li></ul><p>Les données peuvent inclure nom et prénom, numéro de passeport, date de naissance, email, téléphone, adresse, préférences de voyage, informations médicales pertinentes pour votre sécurité et données de paiement.</p><h2>Base légale et finalité</h2><p>Le traitement repose sur la relation contractuelle, votre consentement préalable et l’intérêt légitime de Risun Peru Travel S.A.C. à offrir un service supérieur. Vos données ne seront jamais utilisées à des fins autres que celles qui vous ont été communiquées de manière claire et préalable.</p><h2>Protection et sécurité</h2><p>Nous appliquons les normes internationales ISO/IEC 27001 et le chiffrement SSL 256 bits. Nos serveurs sont situés dans des centres de données certifiés Tier III à Lima et Cusco, avec sauvegardes quotidiennes et accès restreint par biométrie. Nous réalisons des audits internes semestriels et une formation continue du personnel.</p><h2>Transferts et sous-traitants</h2><ul><li>Nous partageons uniquement avec les prestataires de services touristiques (hôtels, guides, transport) les informations indispensables au bon déroulement de votre voyage.</li><li>Tous nos sous-traitants signent des contrats de confidentialité et respectent nos politiques de sécurité.</li><li>Nous ne vendons, ne louons ni ne cédons vos données à des tiers à des fins de marketing.</li></ul><h2>Communications commerciales</h2><p>Si vous autorisez l’envoi de promotions, vous pouvez retirer votre consentement à tout moment en cliquant sur « Se désabonner » en bas de chaque email ou en écrivant à <strong>privacidad@terresdesincas.com</strong></p><h2>Cookies et technologies similaires</h2><p>Notre site web utilise des cookies internes et tiers pour améliorer l’expérience de navigation, analyser le trafic et personnaliser le contenu. Vous pouvez gérer vos préférences depuis le panneau de cookies.</p><h2>Mises à jour de la politique</h2><p>Toute modification sera publiée sur cette même page avec la date de prise d’effet. Nous vous informerons préalablement si la modification affecte substantiellement vos droits.</p><h2>Contact</h2><p>Vous avez des questions ? Écrivez-nous à <strong>privacidad@terresdesincas.com</strong></p>",
+        "frase": "Chez Risun Peru Travel S.A.C., votre vie privée fait partie du voyage parfait."
+    },
+    "Nosotros": {
+        "nombre": "Risun Peru Travel – Tour opérateur",
+        "pregunta": "QUI SOMMES-NOUS ?",
+        "contenido": "<p><strong>Risun Peru Travel</strong> est né du rêve partagé de trois amis : <strong>Giussepe</strong>, passionné par la finance et la comptabilité ; <strong>Albert</strong>, fasciné par l’archéologie et l’anthropologie ; et <strong>Jimmy</strong>, amoureux du tourisme et des voyages. Leurs chemins se sont croisés à différents moments de la vie, mais ils ont été unis par une même vision : créer une agence de voyages qui combine aventure, authenticité et engagement social.</p><p><strong>Il y a plus de dix ans, nous avons décidé d’unir nos passions et nos connaissances pour fonder Risun Peru Travel</strong>, une agence de voyages qui ne se contente pas de concevoir des expériences inoubliables, mais qui cherche également à générer un impact positif dans les communautés du Pérou.</p><p>Nous sommes une équipe de professionnels <strong>passionnés par le tourisme culturel, expérientiel et d’aventure</strong>, avec une solide expérience dans la création et l’organisation de voyages authentiques au Pérou et en Amérique du Sud. Notre motivation repose sur trois piliers fondamentaux : l’engagement social, le respect de l’environnement et l’excellence du service.</p><p>Depuis notre base à Cusco, le cœur des Andes et ancien centre du monde inca, nous concevons des expériences qui permettent aux voyageurs de découvrir le Pérou profond, de se connecter avec son peuple et de s’immerger dans ses paysages, ses traditions et ses savoirs ancestraux.</p><p>Nous connaissons en profondeur les territoires que nous proposons : nous parcourons leurs routes, partageons avec leurs communautés, parlons leurs langues (quechua et aymara) et comprenons à la fois la culture locale et les attentes de nos voyageurs. C’est sur cette base que nous construisons nos itinéraires exclusifs et nos expériences personnalisées.</p><p>De plus, chez <strong>Risun Peru Travel</strong>, nous travaillons activement au développement économique et social des familles andines. À travers le tourisme expérientiel, nous soutenons directement diverses communautés du Pérou, en les aidant à améliorer leurs foyers, en les formant à l’accueil des visiteurs et en promouvant le tourisme responsable comme source de revenus durables. Grâce à ce travail, chaque famille peut participer activement, en offrant hébergement, gastronomie et expériences authentiques depuis leurs propres maisons et communautés.</p><p>Mais notre mission va au-delà du tourisme. Nous croyons fermement que l’éducation est la base fondamentale de toute société, et c’est pourquoi nous sommes pleinement engagés à améliorer l’éducation de milliers d’enfants dans les zones rurales. Avec l’aide de nos voyageurs, nous contribuons à ce que chaque expérience ne laisse pas seulement des souvenirs, mais aussi de véritables opportunités pour les nouvelles générations.</p><h2>Mission</h2><p>Chez <strong>Risun Peru Travel</strong>, notre mission est de créer des expériences de voyage authentiques, responsables et transformatrices qui connectent le voyageur à la richesse culturelle, naturelle et humaine du Pérou.</p><p>Nous cherchons à promouvoir un tourisme durable qui bénéficie directement aux communautés locales, stimule leur développement économique, préserve leurs traditions et favorise l’éducation des enfants andins.</p><p>À travers notre travail, nous unissons passion, savoir et engagement social, en créant des ponts de rencontre entre les cultures et en contribuant à la croissance d’un tourisme plus humain et solidaire.</p><h2>Vision</h2><p>Être reconnus comme l’une des agences leaders du tourisme responsable et expérientiel au Pérou, en nous distinguant par l’authenticité de nos expériences, la qualité de notre service et l’impact positif que nous générons dans les communautés andines.</p><p>Nous aspirons à ce que chaque voyage avec Risun Peru Travel soit une opportunité de découvrir, d’apprendre et de transformer, contribuant à un avenir où le tourisme sera un outil d’éducation, de respect et de développement durable pour tous.</p><h2>NOS VALEURS</h2><h2>L’Esprit de Risun Peru Travel</h2><p>Chez Risun Peru Travel, nous croyons que voyager est bien plus que découvrir de nouveaux paysages : c’est vivre des expériences qui transforment, se connecter aux racines et contribuer au développement de ceux qui nous accueillent.</p><p>Notre esprit se reflète dans trois principes fondamentaux qui guident chacun de nos voyages :</p><h3>1. Authenticité et connexion humaine</h3><p>Chaque expérience que nous créons vise à générer un lien authentique entre le voyageur et la culture andine. Nous partageons la vie quotidienne des familles locales, apprenons leurs coutumes, leur sagesse et leurs traditions, et montrons le Pérou réel, rempli d’histoires, de couleurs et de sourires.</p><p>Plus que de simples visiteurs, nos voyageurs deviennent partie intégrante de la communauté.</p><h3>2. Engagement social et développement durable</h3><p>Notre travail est profondément lié au bien-être des communautés andines. Nous promouvons le tourisme expérientiel comme outil d’inclusion et de croissance, en aidant les familles à améliorer leurs foyers, leur éducation et leur indépendance économique.</p><p>Avec nos voyageurs, nous soutenons des projets éducatifs et des programmes de formation touristique qui sèment des opportunités pour l’avenir.</p><h3>3. Respect de la nature et du patrimoine culturel</h3><p>Respecter l’environnement et les cultures ancestrales est au cœur de chaque itinéraire.</p><p>Nous valorisons la sagesse de la terre, pratiquons un tourisme responsable et encourageons la protection de l’environnement, en veillant à ce que les générations futures puissent également profiter de la grandeur des Andes et de l’Amazonie.</p>"
+    },
+    "Esnna": {
+        "nombre": "Code ESNNA",
+        "contenido1": "<p><strong>Risun Peru Travel</strong> rejette l’exploitation sexuelle des enfants et des adolescents (ESNNA)</p><p><strong>Le Ministère du Commerce Extérieur et du Tourisme (MINCETUR) – Exploitation Sexuelle des Enfants et des Adolescents (ESNNA)</strong> dans le secteur du tourisme au Pérou.</p><p>Cette forme de violence porte gravement atteinte aux droits de l’enfance et de l’adolescence et, malheureusement, est souvent tolérée ou ignorée dans la société.</p><p>Chez <strong>Risun Peru Travel</strong>, nous respectons le Code de conduite pour la protection des enfants et des adolescents contre l’<strong>ESNNA.</strong></p>",
+        "contenido2": "<h2>Base légale</h2><p>Il existe diverses lois qui sanctionnent pénalement ces délits et que nous cherchons à respecter rigoureusement :</p><ul><li><strong>Loi n° 29403 – Loi générale du tourisme</strong>, et son règlement approuvé par le Décret suprême n° 003-2010-MINCETUR.</li><li><strong>Loi n° 30963,</strong> qui modifie le Code pénal afin de sanctionner plus sévèrement les délits d’exploitation sexuelle, en particulier lorsqu’ils concernent des mineurs et des femmes.</li><li><strong>Loi n° 30802,</strong> qui établit des mesures pour l’entrée sécurisée des enfants et adolescents dans les établissements d’hébergement, protégeant ainsi leur intégrité.</li></ul><p>Votre dénonciation peut faire la différence.</p><p>Si vous avez connaissance d’un cas d’exploitation sexuelle impliquant des personnes de moins de 18 ans, votre action peut sauver des vies et protéger ceux qui en ont le plus besoin.</p><p>Dans notre agence, nous <strong>n’autorisons ni ne promouvons</strong> aucun acte d’exploitation sexuelle ni d’autres délits connexes. Nous agissons en stricte conformité avec la <strong>Loi n° 29408,</strong> en promouvant un tourisme sûr, responsable et respectueux.</p><p>Cordialement,</p><h3>Risun Peru Travel</h3>"
+    },
+    "filantropia": {
+        "titulo": "Tourisme Responsable et Durable — voyager consciemment pour protéger notre Planète",
+        "p1": "<p>Chez <strong>Risun Peru Travel</strong>, nous ne sommes pas seulement une agence de voyages — nous sommes une équipe <strong>humaine, passionnée et profondément engagée</strong> dans le développement des communautés locales des Andes. Nous croyons fermement que le tourisme doit être <strong>une force positive</strong>, capable de transformer des vies et de créer des opportunités durables pour ceux qui en ont le plus besoin.</p>",
+        "p2": "<p><strong>Notre mission : soutenir l’éducation des enfants oubliés par les systèmes actuels</strong></p>",
+        "p3": "<p>Le sud andin du Pérou est une région riche en culture, en histoire et en traditions — et pourtant trop souvent laissée pour compte lorsqu’il s’agit d’accès à une éducation de qualité. Beaucoup d’enfants n’ont pas les ressources nécessaires pour poursuivre leurs études, et les écoles rurales manquent de moyens pour offrir des conditions d’apprentissage dignes.</p>",
+        "p4": "<p>Pour nous, <strong>rien n’est plus important que l’avenir de ces enfants</strong>. Nous considérons qu’aider à améliorer leurs conditions d’éducation est une responsabilité profonde, non seulement pour préserver la culture andine, mais aussi pour que ces enfants puissent rêver, apprendre et construire leur propre avenir dans la dignité. </p>",
+        "p5": "<p><strong>Ce que nous faisons concrètement</strong></p>",
+        "p6": "<ul><li>Offrir <strong>matériel scolaire complet</strong> à chaque rentrée afin que chaque étudiant commence l’année avec tout ce dont il a besoin.</li><li>Soutenir des <strong>projets éducatifs et culturels</strong> conçus avec les communautés, pour respecter leurs traditions et favoriser leur autonomie.</li><li>Construire ou enrichir <strong>bibliothèques et ludothèques</strong> dans les écoles rurales, pour encourager la lecture, le jeu et la créativité.</li><li>Organiser <strong>voyages scolaires vers des sites historiques comme Machu Picchu</strong>, afin que les enfants découvrent et valorisent leur propre patrimoine ancestral.</li><li>Fêter des moments de joie comme Noël dans les villages isolés, créant des souvenirs chaleureux et solidaires.</li></ul>",
+        "p7": "<p><strong>Avec vous, cela devient possible</strong></p>",
+        "p8": "<p>Chaque voyage que vous réservez avec Risun Peru Travel contribue directement à ces initiatives. Une partie de nos revenus est réinvestie pour soutenir les écoles rurales andines, aider les familles les plus vulnérables et faire en sorte que l’éducation devienne un levier de changement réel.</p>",
+        "p9": "<p>Nous savons que le <strong>véritable impact social ne se mesure pas seulement en kilomètres parcourus, mais en vies transformées.</strong> En voyageant avec nous, vous devenez <strong>un acteur de développement positif</strong>, apportant des chances réelles à des milliers d’enfants pour qu’ils puissent étudier, s’épanouir et rêver grand.",
+        "p10": "<p><strong>Merci de faire partie de ce voyage qui va bien au-delà des paysages — un voyage vers un avenir meilleur pour les enfants d’Andes. </strong></p>"
+    }
+}

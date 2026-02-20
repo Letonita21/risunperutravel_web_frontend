@@ -1,0 +1,384 @@
+{
+    "Navbar": {
+        "inicio": "Inicio",
+        "nosotros": "Nosotros",
+        "contactenos": "Contactenos",
+        "blog": "Blog de Viajes",
+        "consulta": "CONSULTE AHORA",
+        "buscar": "Buscar..."
+    },
+    "Footer": {
+        "Amazonia": "Amazonia",
+        "Arequipa": "Arequipa",
+        "Cusco": "Cusco",
+        "Lima": "Lima",
+        "Puno": "Puno",
+        "Servicios": "Servicios",
+        "pagos": "Metodos de Pago",
+        "contactos": "Contactos",
+        "derechos": "Derechos Reservados",
+        "Nosotros": "Nosotros",
+        "TerminosYCondiciones": "Términos y Condiciones",
+        "PoliticasDePrivacidad": "Políticas de Privacidad",
+        "PoliticasDeCancelacion": "Políticas de Cancelacíon",
+        "PoliticaIntegradaDeCalidad": "Política Integrada de Calidad",
+        "CreaTuViaje": "Crea tu Viaje",
+        "CodigoEsnna": "Código ESNNA",
+        "AyudaSocial": "Ayuda a la Niñez",
+        "BlogDeviajes": "Blog de viajes",
+        "descripcion": "Somos expertos en crear experiencias únicas en los Andes, conectando viajeros con la riqueza cultural, histórica y natural del mundo incaico. ¡Descubre el Perú auténtico con nosotros!"
+    },
+    "Body": {
+        "fraseAgencia": "Viajar es evolucionar!!!",
+        "operador": "Somos RisunPeru, peruanos de corazón",
+        "medida": "Viajes a medida",
+        "ayuda": "Ayuda a la niñez",
+        "opiniones": "Opiniones",
+        "reserva": "Reserva Ahora!",
+        "verMas": "Ver más",
+        "risunDescripcion": "<p>En <strong>Risun Peru Travel</strong>, nos apasiona compartir la magia del Perú con viajeros de todo el mundo. Somos una agencia de turismo comprometida con brindar experiencias auténticas y personalizadas, permitiendo a nuestros clientes explorar la riqueza cultural, histórica y natural de nuestro país de manera única y significativa. Desde los majestuosos paisajes de los Andes hasta la selva amazónica y la costa peruana, diseñamos viajes que conectan con la esencia de cada destino.</p><p>Nuestro equipo está conformado por profesionales apasionados por el turismo, guías certificados y expertos en planificación de viajes. Nos esforzamos por ofrecer un servicio de alta calidad, asegurando comodidad, seguridad y una atención excepcional en cada recorrido. Además, promovemos el turismo sostenible, colaborando con comunidades locales y respetando el patrimonio cultural y natural del Perú.</p>",
+        "valores1": "Guías Expertos",
+        "valoresDescripcioin1": "Somos un equipo de guías expertos y especialistas en viajes, comprometidos en brindar experiencias inolvidables y seguras, acompañando a nuestros viajeros a destinos icónicos como Machu Picchu, Camino Inca, Choquequirao, Huchuy Qosqo, Lares y la Montaña de Siete Colores.",
+        "valores2": "Seguridad y Confianza",
+        "valoresDescripcioin2": "Como agencia de turismo, priorizamos la seguridad y confianza de nuestros clientes, ofreciendo planificación profesional, asistencia continua y servicios cuidadosamente coordinados en cada experiencia.",
+        "valores3": "Experiencias Auténticas",
+        "valoresDescripcioin3": "Creamos experiencias auténticas y memorables, acercándote a la esencia de cada destino a través de vivencias culturales, paisajes únicos y tradiciones locales.",
+        "valores4": "Itinerarios Exclusivos",
+        "valoresDescripcioin4": "Diseñamos itinerarios exclusivos y personalizados, adaptados a tus intereses y estilo de viaje, garantizando experiencias únicas en cada destino.",
+        "desde": "Reserva con",
+        "portada": {
+            "id1": {
+                "id": 104
+            },
+            "id2": {
+                "id": 99
+            },
+            "id3": {
+                "id": 24
+            },
+            "id4": {
+                "id": 49
+            }
+        },
+        "imperdibles": {
+            "machupicchu": {
+                "id": 195,
+                "descripcion": "Descubre la maravilla del mundo y vive la magia de la ciudadela sagrada de los Incas."
+            },
+            "colores": {
+                "id": 22,
+                "descripcion": "Atrévete a conquistar el arcoíris de los Andes y contempla un paisaje único en el mundo."
+            },
+            "salineras": {
+                "id": 26,
+                "descripcion": "Descubre las impresionantes salineras de Maras, un paisaje único de miles de pozos blancos que brillan bajo el sol andino."
+            },
+            "valleSagrado": {
+                "id": 23,
+                "descripcion": "Viaja al corazón de los Andes y descubre pueblos ancestrales, cultura viva y paisajes espectaculares."
+            },
+            "cityTour": {
+                "id": 15,
+                "descripcion": "Explora la ciudad imperial, sus calles, templos y rincones llenos de historia y leyenda."
+            },
+            "sieteLagunas": {
+                "id": 14,
+                "descripcion": "Embárcate en una travesía mágica por las lagunas multicolor al pie del nevado Ausangate."
+            }
+        },
+        "dia1": "1 día",
+        "duracion": "Duración",
+        "masDetalles": "Conoce más detalles",
+        "descripcionImperdibles": "<p>Explora la riqueza cultural y natural de Perú con <strong>RISUNPERUTRAVEL</strong>. Desde la costa hasta la selva, Lima, Ica, Huaraz, Arequipa, Puno Y Cusco.</p>",
+        "nombreImperdibles": "Paquetes Turísticos",
+        "caminatas": {
+            "salkantay": {
+                "id": 49,
+                "descripcion": "Una de las rutas más desafiantes y bellas hacia Machu Picchu, rodeada de glaciares, lagunas turquesa y paisajes de impacto."
+            },
+            "caminoInca": {
+                "id": 104,
+                "descripcion": "La ruta más famosa y emblemática hacia Machu Picchu, mezcla de historia, cultura y naturaleza en cada paso."
+            },
+            "choquequirao": {
+                "id": 31,
+                "descripcion": "Explora la ‘hermana sagrada’ de Machu Picchu, un sitio arqueológico majestuoso rodeado de montañas y misterio."
+            },
+            "huchuyQosqo": {
+                "id": 25,
+                "descripcion": "Un sendero corto pero lleno de historia, que conecta con ruinas incas y paisajes mágicos del Valle Sagrado."
+            },
+            "ausangate": {
+                "id": 29,
+                "descripcion": "Aventura en las alturas andinas con nevados imponentes, lagunas de colores y la icónica montaña de los Siete Colores."
+            },
+            "lares": {
+                "id": 71,
+                "descripcion": "Una caminata cultural y natural, donde conocerás comunidades andinas vivas, aguas termales y paisajes únicos."
+            }
+        },
+        "nombreCaminatas": "Caminatas en Cusco",
+        "descripcionCaminatas": "<p>Explora los trekkings más impresionantes de Cusco: desde el mítico Camino Inca hasta la desafiante ruta de Salkantay. Descubre la grandeza de Choquequirao, la historia de Huchuy Qosqo y la magia de Ausangate y Lares. Cada caminata te conecta con paisajes únicos y la esencia viva de los Andes.</p>",
+        "mejorPeru": {
+            "idMuseoLarco": 89,
+            "idParqueAguas": 86,
+            "idEncantoDecierto": 207,
+            "idColca": 79,
+            "idSillar": 78,
+            "idTiticaca": 94,
+            "idSillustani": 97,
+            "idSandoval": 102,
+            "idTaricaya": 101
+        },
+        "tripAdvisorComentarios": "Testimonios de Nuestros Clientes",
+        "tituloMejorPeru": "Lo mejor de Perú",
+        "descripcionMejorPeru": "<p>Te invitamos a descubrir los <strong>mejores lugares de Perú</strong>, una tierra mágica donde los <strong>Andes</strong> tocan el cielo, la <strong>Amazonía</strong> guarda secretos ancestrales y el <strong>Oceano Pacífico</strong> acaricia la costa; ven y déjate maravillar por <strong>Machu Picchu</strong>, las enigmáticas <strong>Líneas de Nazca</strong> y los pueblos que mantienen vivas sus tradiciones, <strong>disfruta de una gastronomía reconocida como una de las mejores del mundo</strong> y vive experiencias únicas que convertirán tu viaje en un recuerdo eterno… <strong>Perú te espera con los brazos abiertos.</strong></p>",
+        "vivencialTitulo": "Turismo Vivencial en Peru",
+        "vivencialDescripcion": "<p>El turismo vivencial en Cusco te invita a sumergirte en la vida de las comunidades locales, donde podrás vivir sus tradiciones, compartir sus costumbres y participar en sus festividades llenas de color y significado. No eres un simple visitante: te conviertes en parte de su día a día, aprendes de su cultura ancestral y disfrutas de experiencias auténticas que van más allá de lo convencional. Desde la preparación de platos típicos hasta la participación en rituales andinos, cada momento es una oportunidad para conectar con la esencia de los Andes. Este tipo de viaje transforma tu mirada, dejando recuerdos profundos y un vínculo real con las personas que mantienen vivas sus raíces. Vivir Cusco es vivir su gente.</p>",
+        "vivencial": {
+            "idPatabamba": 24,
+            "idPatacancha": 27,
+            "idLlachon": 98,
+            "idAmantani": 95
+        },
+        "nombrePatacancha": "Patacancha Vivencial",
+        "actividadesPatacancha": [
+            "Ceremonia de bienvenida",
+            "Tinka a las Alpacas",
+            "Almuerzo tradicional: Pachamanca andina",
+            "Actividades vivenciales con las familias"
+        ],
+        "duracionPatacancha": "1 día",
+        "descripcionPatacancha": "Vive una auténtica experiencia andina en Patacancha, donde en un solo día disfrutarás de ceremonias ancestrales, un almuerzo tradicional de pachamanca y actividades culturales junto a familias locales. Conecta con la cultura viva de los Andes a través del turismo vivencial.",
+        "nombrePatabamba": "Patabamba – Tour Vivencial",
+        "actividadesPatabamba": [
+            "Ceremonia de bienvenida tradicional",
+            "Demostración de tejido tradicional con tintes naturales",
+            "Actividad agrícola (siembra, cosecha o arado con bueyes)",
+            "Caminata corta por los miradores de Patabamba",
+            "Taller de plantas medicinales o cocina andina",
+            "Almuerzo típico andino: Pachamanca"
+        ],
+        "duracionPatabamba": "1 día",
+        "descripcionPatabamba": "Descubre Patabamba, a solo hora y media de Cusco, donde podrás compartir con familias locales, aprender costumbres ancestrales, participar en actividades tradicionales y disfrutar de una pachamanca andina en un entorno cultural y natural inolvidable.",
+        "nombreLlachon": "Llachon en el Titicaca Profundo",
+        "actividadesLlachon": [
+            "Navegacion a la comunidad Llachón",
+            "Almuerzo tradicional",
+            "conversación sobre los apus, los ritmos agrícolas y los saberes andinos",
+            "Pesca tradicional con red",
+            "Teñido y tejido con lana de oveja o alpaca",
+            "abores agrícolas según temporada",
+            "Caminata al Mirador de Llachón",
+            "Navegación hacia Taquile",
+            "Caminata y visita cultural"
+        ],
+        "duracionLlachon": "3 días / 2 noches",
+        "descripcionLlachon": "Vive una experiencia única en el Lago Titicaca, alojándote en la comunidad de Llachón en la península de Capachica. Durante tres días compartirás la vida con familias locales, participando en sus actividades cotidianas, visitando las islas Uros y Taquile, y conectando con la esencia andina en un entorno auténtico, natural y lleno de tradición.",
+        "nombreAmantani": "Lago Titicaca y Amantani",
+        "actividadesAmantani": [
+            "Navegación hacia las Islas Uros",
+            "Visita a las Islas Uros",
+            "Navegación hacia Amantaní",
+            "Llegada y bienvenida",
+            "Tarde de caminata y rituales",
+            "Navegación hacia Taquile",
+            "Caminata hasta el pueblo",
+            "Presentación cultural",
+            "Técnicas de tejido a telar",
+            "Simbolismo de los tejidos"
+        ],
+        "duracionAmantani": "2 días / 1 noche",
+        "descripcionAmantani": "Vive una experiencia auténtica en el Lago Titicaca y Amantaní, alojándote con familias locales, compartiendo sus costumbres y caminando por senderos ancestrales. Conecta con la cultura viva, la esencia andina y la magia de un entorno sagrado bajo el cielo estrellado del altiplano."
+    },
+    "Tour": {
+        "flotanteHorizontal": {
+            "precio": "Precio",
+            "grupo": "Grupo:",
+            "ubicacion": "Ubicación",
+            "duracion": "Duración",
+            "altura": "Altura",
+            "dificultad": "Dificultad",
+            "dia": "día",
+            "dias": "dias",
+            "muyFacil": "Muy Fácil",
+            "facil": "Fácil",
+            "moderado": "Moderado",
+            "difcil": "Difícil",
+            "extremo": "Extremo"
+        },
+        "cuerpo": {
+            "descripcion": "Descripción",
+            "itinerario": "Itinerario",
+            "incluye": "Incluye",
+            "noIncluye": "No Incluye",
+            "recomendaciones": "Recomendaciones",
+            "galeria": "Galeria de Fotos",
+            "mapa": "Mapa",
+            "pregunta": "Preguntas frecuentes",
+            "responsable": "Por un turismo responsable y sustentable",
+            "verMas": "Ver más",
+            "verMenos": "Ver menos",
+            "responsableContenido": "El pago de cada experiencia se distribuye de manera responsable y transparente con el objetivo de generar un impacto real y positivo en el Perú"
+        },
+        "formulario": {
+            "titulo": "Reserva o Consulta",
+            "nombres": "Nombre y Apellidos",
+            "pais": "País",
+            "correo": "Correo",
+            "fecha": "Fecha de llegada",
+            "cantidad": "Cantidad de pasajeros que viajaran",
+            "adicional": "Mensaje adicional",
+            "mensaje": "escribe aqui el mensaje...",
+            "numero": "Numero de celular",
+            "enviar": "Enviar"
+        },
+        "flotanteVertical": {
+            "desde": "Reserva ahora con",
+            "reserva": "Reserva/Consulta ahora",
+            "whatsapp": "Reserva/Consulta por WhatsApp",
+            "masDetalles": "Mas detalles",
+            "dia": "dia",
+            "dias": "dias",
+            "mensaje": "Hola quiero más información del Tour"
+        },
+        "encontrar": "Se encontraron",
+        "para": "con:",
+        "resultados": "resultados"
+    },
+    "TerminosYCondiciones": {
+        "nombre": "Términos y Condiciones",
+        "contenido": "<strong>Gracias por elegir a RISUN PERU TRAVEL. Para tener una mejor experiencia y satisfacción de nuestros servicios, Le recomendamos encarecidamente que lea atentamente la siguiente información:</strong>",
+        "reservaciones": "Para Reservaciones",
+        "reservacionesCont":"Para realizar una reserva, la empresa requiere <strong> el pago del 30% del total del tour</strong> por parte del cliente utilizando nuestros métodos de pago autorizados (pago por link, PayPal, Western Unión, PIX o Transferencia Bancaria), y el otro 70% del su tour deberá ser pagado en efectivo el primer día de su llegada a la ciudad de Cusco en dólares americanos en la charla informativa. Para poder confirmar la reserva se necesitará contar con la siguiente información de cada pasajero que realiza el viaje:",
+        "frase": "¡Que su viaje sea tan extraordinario como la tierra que lo inspira!",
+        "pago":"Métodos de Pago:",
+        "pagoCont":"Pagos con transferencia <strong>WESTERN UNION</strong> donde podrá realizar diositos desde cualquier oficina Western Union en el Perú o extranjero;",
+        "pagoCont2":"<strong>RECUERDE</strong>: Después de que usted realice el depósito solicitado debe de enviar una copia del recibo de depósito o el código MTCN, luego le enviaremos una constancia de la recepción del pago",
+        "pagoCont3":"<strong>PAGOS ATRAVEZ DE “PAYPAL”, LA MÁS SEGURA Y CONFIABLE FORMA DE PAGO EN MAS DE 200 PAISES DEL MUNDO.</strong>",
+        "pagoCont4":"<p>Este medio de pago tiene un recargo del 8% por cargo de impuestos interbancarios <strong>ej. US$ 100 + 8% = US$ 108.00 a depositar</strong>; para esta operación, usted deberá de mencionar su preferencia de pago al momento de enviarnos la información de los viajeros, luego nosotros le enviaremos una solicitud de pago vía PAYPAL para proceder con el pago.</p>",    
+        "pagoCont5":"<strong>PAGOS CON TARJETA DE CRÉDITO O DÉBITO.</strong>",            
+        "pagoCont6":"<p>Este medio de pago tiene un recargo del 6% por cargo de impuestos interbancarios <strong>ej. US$ 100 + 6% = US$ 106.00 a depositar</strong>; si esta es su elección nosotros le enviaremos un correo con un link (liga) que le llevará a la plataforma de VISA desde donde realizará el pago de forma segura.</p>",
+        "pagoCont7":"<p>También podría ser pagado con <strong>tarjeta de crédito o débito</strong>(los pagos con tarjeta <strong> tienen un recargo del 6 %</strong> por impuestos interbancarios).</p>",
+        "pagoCont8":"<p>Se recomienda informar <strong>alergias, enfermedades, condiciones del pasajero, características de cada pasajero, preferencias de comida, etc.</strong>. Una vez realizado el prepago, nuestro agente de ventas le enviará un correo electrónico con la confirmación de la reserva del paquete turístico elegido por él cliente, dicho correo es un documento de garantía de su reserva, después de que el cliente reciba la confirmación deberá verificar el contenido del correo al detalle y responder al mismo. Si su reserva incluye noches de alojamiento, la confirmación de los hoteles está sujeto a disponibilidad de espacios, de no haber espacio en el hotel especificado en el correo de confirmación se le dará al cliente otro de similar categoría y precio. La empresa se reserva el derecho de aceptar reservas de último momento (24 horas antes de la llegada del cliente al destino), en este caso la empresa indicará expresamente las condiciones especiales de dicha reserva, el que incluirá, de ser el caso horarios especiales, estas condiciones deben ser de mutuo acuerdo con el cliente y quedarán evidenciadas mediante correo electrónico</p>",
+        "anulacion":"Anulaciones de Reservas:",    
+        "anulacionCont1":"<p>El cliente puede realizar la cancelación de la reserva en cualquier momento, esta deberá ser emitida por escrito a nuestro <strong>e- mail rcperutravel@gmail.com</strong>. Si la anulación de la reserva es antes de un mes de comenzar el tour, solo se le retendrá el 40 % de sus aportaciones (no reembolsable), si es antes de los 15 días de comenzar el tour perderá el 60 % de sus aportaciones, sin contar gastos extras como envió, retenciones bancarias y después perderá el 100 % de sus aportes (estas solo aplicables para reservas individuales)</p>",    
+        "anulacionCont2":"<p>Para las reservas grupales antes de 2 meses de comenzar el tour se le descontará el 50% de sus aportaciones, antes de 1 mes de comenzar el tour se le descontará el 70% de sus aportaciones, luego perderá el 100% de lo aportado.</p>",    
+        "anulacionCont3":"<p>Recomendamos el uso de un seguro de viaje y médico para su seguridad. Los seguros en Perú se pueden adquirir con compañías aseguradoras locales e internacionales con sede en Lima. </p>",
+        "anulacionCont4":"<p>Preferimos no involucrarnos en proveer este servicio debido a que es más sencillo y económico adquirirlo fuera del país, es decir, en su lugar de origen, no obstante, lo atenderemos con gusto si desea solicitarlo. Si un miembro del grupo se enferma o se encuentra discapacitado, nos haremos cargo de él por medio de un doctor calificado, los gastos deberán ser asumidos por el cliente, incluyendo hospitalización y medicamentos de ser necesario. En caso de accidente y/o evacuación de emergencia, todos los gastos serán cubiertos por el cliente</p>",
+        "anulacionCont5":"<p>UNA NOTA ESPECIAL CON RESPECTO A CANCELACIONES DE RESERVAS DE CAMINO INCA</p>",
+        "anulacionCont6":"<p>Los pagos adelantados por las diferentes caminatas que incluyen Camino Inca 4 días/3 noches, Camino Inca 2 días/1 noche, Camino Inca 5 días/4 noches, Salkantay y Camino Inca 7 días/6 noches. Los costos de estas caminatas son no retornables, e incluyen los tickets de ingreso al Camino Inca, porteadores, cocineros, y boletos para el tren. Esto es porque los servicios son reservados y pagados al momento que se hace la reservación de ahí que el depósito requerido no es reembolsable.</p>",
+        "anulacionCont8":"<p>Los permisos para el Camino Inca se tramitan con el nombre y número de pasaporte, en ningún caso podrán ser transferibles a otra persona</p>",
+        "anulacionCont9":"<p>El cambio de fechas tampoco es posible una vez que se ha adquirido el permiso. Estos no son reembolsables ni transferibles.</p>",
+        "anulacionCont10":"<p>Tenga en cuenta que esta es una regulación del gobierno peruano y no <strong>RISUN PERU TRAVEL</strong></p>",
+        "anulacionCont11":"<p>En el caso extremo de que el Camino Inca sea declarado cerrado por razones de seguridad, o haga que escape a nuestra responsabilidad, <strong>RISUN PERU TRAVEL</strong> reemplazará su excursión con una ruta alternativa.</p>",
+        "anulacionCont12":"<p>Si reserva el tour Camino Inca con Tarjeta de Estudiante. Durante la caminata se debe llevar el original junto con el pasaporte. El personal del Ministerio de Cultura prohibirá la entrada si no se muestra el carnet de estudiante, situación que escapará a nuestras responsabilidades.</p>",
+        "politicas":"Política de Privicidad :",
+        "politicasCont1":"Nosotros sabemos de la importancia de su información es por esto que nuestras políticas de privacidad son estrictas, <strong>RISUN PERU TRAVEL</strong> utilizará esta información exclusivamente para nominar los tickets de reserva, nosotros nunca compartimos esta información con terceros, Su información está en buenas manos, odiamos el SPAM.",
+        "politicasCont2":"<strong>RISUN PERU TRAVEL E.I.R.L</strong> se reserva el derecho de modificar cualquier itinerario de ser realmente necesario, para salvaguardar los intereses de nuestros clientes. Nos reservamos el derecho de rechazar, aceptar o retener a cualquier persona como un miembro de cualquiera de nuestros viajes.",
+        "politicasCont3":"El equipaje y sus pertenencias es responsabilidad del cliente durante todo el viaje. De igual manera nos reservamos el derecho de cambiar algunas de nuestras tarifas sin aviso alguno, esto por motivos de tipo de cambio o cambio de tarifas de compañías",
+        "politicasCont4":"NO PRESENTARSE (No show)",
+        "politicasCont5":"Retendremos el monto total y no nos hacemos responsables por la no presentación del cliente por motivo de retraso o cancelación de su vuelo. La empresa no se hace responsable por daños a, o pérdida de equipajes, accidentes, gastos no previstos, demoras inevitables, servicios provistos por terceros o causas directas más allá de nuestro control. En el desafortunado evento de la no presentación por causas no previstas, la empresa proveerá un certificado al cliente para tramite con su empresa de seguros.",
+        "politicasCont6":"NOTA IMPORTANTE",
+        "politicasCont7":"En la eventualidad de que el cliente abandone el tour por cualquier motivo o razón los gastos extras son responsabilidad del cliente y la empresa no se hace responsable para ningún reembolso",
+        "politicasCont8":"<strong>OBLIGACIONES DE LOS PASAJEROS ESTABLECIDAS SEGÚN POLÍTICAS DE RISUN PERU TRAVEL</strong>",
+        "politicasCont9":"Responder de manera clara y precisa a las respuestas y solicitudes, como los formularios que debe completar sea por correo o pagina web",
+        "politicasCont910":"Seguir las instrucciones del equipo en ruta.",
+        "politicasCont911":"La asistencia obligatoria a las reuniones informativas (si ese es el caso), que se realizan antes de su recorrido, son imprescindibles para iniciar la experiencia en ruta.",
+        "politicasCont912":"Cumplir con todas las obligaciones establecidas en estos Términos y Condiciones.",
+        "politicasCont10":"ATTE: <strong>RISUN PERU TRAVEL</strong>"
+
+
+    },
+
+    "PoliticaDeCancelacion": {
+        "nombre": "Política de Cancelación",
+        "contenido": "<p>Sabemos que a veces los planes cambian. Por eso explicamos claramente nuestra política de cancelación, para que puedas tomar decisiones informadas con confianza.</p><h2><strong>Importante:</strong></h2><ul><li>Para tours de <strong>5 días o más</strong> se requiere un <strong>depósito no reembolsable de $300 por persona.</strong> Este depósito se utiliza para asegurar permisos, boletos, hoteles y otros servicios que no son modificables ni reembolsables.</li><li>Para tours de <strong>menos de 5 días,</strong> se requiere un <strong>depósito no reembolsable de $600 por persona</strong> o del <strong>30% del valor del Tour.</strong></li></ul><h2><strong>Paquetes con alojamiento en hotel:</strong></h2><p>Los montos de los depósitos pueden variar dependiendo de la categoría del hotel (3, 4 o 5 estrellas), ya que estos suelen requerir pagos anticipados no reembolsables.</p><h2><strong>Si necesitas cancelar tu viaje:</strong></h2><h2>Tours de 8 días o más:</h2><ul><li>Cancelación con 60 días o más de anticipación: depósito no reembolsable.</li></ul><h2><strong>Flexibilidad ante cambios del cliente</strong></h2><p>Sabemos que los planes pueden variar. Por ello, ofrecemos:</p><ul><li>Más de 90 días antes de la fecha de inicio del tour: <p>Tienes derecho a un reembolso de los pagos adicionales realizados, excluyendo el depósito inicial de $600.</p></li><li>Dentro de los 90 días previos al inicio del tour: <p>No se emitirán reembolsos, ya que los hoteles, transporte, permisos y otros servicios logísticos ya estarán confirmados y pagados.</p></li></ul><h2>Tours de menos de 8 días:</h2><ul><li>Más de 70 días antes de la fecha de inicio del tour: <p>Tienes derecho a un reembolso de los pagos adicionales realizados, excluyendo el depósito inicial de $400.</p></li><li>Dentro de los 90 días previos al inicio del tour: <p>No se emitirán reembolsos, ya que los hoteles, transporte, permisos y otros servicios logísticos ya estarán confirmados y pagados.</p></li></ul><h2><strong>Pago Final del Tour</strong></h2><h2>Opción recomendada:</h2><p>Paga el saldo restante en efectivo (USD o soles peruanos) en nuestra oficina de Cusco para evitar el recargo del <strong>5.5% por procesamiento.</strong></p><h2><strong>Pago anticipado en línea:</strong></h2><ul><li>Puedes pagar el saldo restante a través de PayPal, Visa o MasterCard (se aplica una tarifa del 5.5%).</li><li>Todos los pagos finales en línea deben completarse al <strong>96 horas (4 días)</strong> antes del inicio del tour.</li><li>No cumplir con este plazo puede resultar en la <strong>cancelación automática sin reembolso.</strong></li></ul><h2><strong>Cómo solicitar una cancelación</strong></h2><p>Envía tu solicitud por correo electrónico a: <strong>asistencia@terresdesincas.com</strong> Estaremos encantados de ayudarte.</p><h2><strong>Tours de 8 días o más:</strong></h2><p>En caso de cancelación, Risun Peru Travel aplicará las siguientes retenciones sobre los pagos efectuados, según el número de días de anticipación con que se solicite la anulación del tour.</p><table border='1' cellspacing='0' cellpadding='8'><thead style='background-color: orange; color: white;'><tr><th>Tiempo antes del inicio del tour</th><th>Porcentaje del precio total del tour</th></tr></thead><tbody><tr><td>De 90 a 61 días antes</td><td>80% del precio total del tour</td></tr><tr><td>De 60 a 21 días antes</td><td>50% del costo total del tour</td></tr><tr><td>Menos de 21 días antes</td><td>100% del precio total del tour</td></tr></tbody></table><h2><strong>Tours de menos de 8 días:</strong></h2><p>En caso de cancelación, Risun Peru Travel aplicará las siguientes retenciones sobre los pagos efectuados, según el número de días de anticipación con que se solicite la anulación del tour</p><table border='1' cellspacing='0' cellpadding='8'><thead style='background-color: orange; color: white;'><tr><th>Tiempo antes del inicio del tour</th><th>60% del precio total del tour</th></tr></thead><tbody><tr><td>De 70 a 50 días antes</td><td>80% del precio total del tour</td></tr><tr><td>De 49 a 20 días antes</td><td>50% del costo total del tour</td></tr><tr><td>Menos de 20 días antes</td><td>100% del precio total del tour</td></tr></tbody></table>",
+        "fraseFinal": "Como agencia de viajes, realizamos muchos pagos no reembolsables por adelantado para asegurar tu experiencia. Estas tarifas nos ayudan a cubrir esos costos. Si necesitas una carta oficial de cancelación para tu seguro de viaje, estaremos encantados de proporcionártela a solicitud."
+    },
+    "PoliticaDeCalidad": {
+        "nombre": "Política Integrada de Calidad, Medio Ambiente y Gestión",
+        "contenido": "<h2><strong>Misión normativa</strong></h2><p>Establecer los principios rectores que orientan cada decisión de Risun Peru Travel S.A.C. con el fin de:</p><ul><li>Ofrecer experiencias de viaje superlativas.</li><li>Minimizar huella ambiental y social.</li><li>Maximizar retorno positivo para comunidades, colaboradores y viajeros.</li></ul><h2><strong>Alcance operativo</strong></h2><p>Aplicable a todos los procesos, productos y servicios turísticos que diseñamos, comercializamos u operamos en Perú, Bolivia y cualquier punto de nuestra red de destinos, incluyendo la totalidad de la cadena de valor (proveedores, aliados, destinos y viajeros).</p><h2><strong>Marco jurídico y referencial</strong></h2><ul><li>Ley N.º 30042 – Ley General de Turismo</li><li>Convenios OIT 138 y 182</li><li>Ley N.º 30709 – Gestión del Cambio Climático</li><li>Política Nacional del Ambiente y Recursos Naturales</li><li>Estándares GSTC – Global Sustainable Tourism Council</li></ul><h2><strong>Principios rectores</strong></h2><ul><li><strong>Excelencia operativa</strong></br>Productos que superan estándares internacionales de calidad y seguridad; meta: satisfacción ≥ 90 % trimestral.</li><li><strong>Sostenibilidad ambiental</strong></br>Reducción anual medida y verificada:<ul><li>Huella de carbono operativa: –3 %</li><li>Plásticos de un solo uso: –10 %</li><li>Consumo de agua y energía en campamentos: –5 %</li></ul></li><li><strong>Respeto cultural y social</strong><ul><li>Consentimiento previo, libre e informado (CPLI) en cada comunidad.</li><li>≥ 8 % del valor vendido destinado a proyectos comunitarios.</li><li>Cumplimiento absoluto del Código de Conducta para la Protección de Niños, Niñas y Adolescentes en el Turismo.</li></ul></li><li><strong>Ética y cumplimiento normativo</strong></br> Cero tolerancias a trabajo infantil, explotación o discriminación; cumplimiento estricto de toda legislación laboral, ambiental y turística vigente.</li><li><strong>Mejora continua</strong><ul><li>Auditorías internas semestrales y externas anuales.</li><li>≥ 20 h de formación anual por colaborador.</li><li>Revisión de objetivos y metas por la Alta Dirección cada seis meses.</li></ul></li></ul><h2><strong>Responsabilidades</strong></h2><ul><li>Alta Dirección: asignar recursos, definir objetivos y revisar resultados.</li><li>Responsable de Calidad y Sostenibilidad: liderar implementación, mantener registros.</li><li>Todos los colaboradores: aplicar procedimientos y reportar desviaciones.</li></ul><h2><strong>Comunicación y divulgación</strong></h2><ul><li>Inducción obligatoria para nuevos colaboradores.</li><li>Cartelería en oficinas, campamentos y vehículos.</li><li>Publicación permanente en web y redes sociales.</li></ul><h2><strong>Revisión y actualización</strong></h2><p>Revisión anual obligatoria, o antes ante cambios normativos relevantes. Aprobación y comunicación por la Alta Dirección.</p><p>«Caminamos con respeto, operamos con excelencia y dejamos una huella positiva en cada destino.»</p>"
+    },
+    "PoliticaDePrivacidad": {
+        "nombre": "Política de Protección y Privacidad de Datos Personales",
+        "contenido": "<p>En <strong>Risun Peru Travel</strong> S.A.C. (“LA AGENCIA”) cuidamos tu información como cuidamos cada detalle de tu viaje. Esta política, redactada conforme a la Ley N.º 29733 y su Reglamento, describe cómo recopilamos, protegemos y empleamos tus datos personales para brindarte un servicio excepcional y seguir mejorando día a día.</p><ul><li>Identidad del titular del banco de datos</li><li>Razón social: Risun Peru Travel S.A.C.</li><li>RUC: 20613977539</li><li>Correo del responsable de protección de datos (DPO): privacidad@terresdesincas.com</li></ul><h2>Datos que recabamos</h2><p>Solo solicitamos la información estrictamente necesaria para:</p><ul><li>Diseñar y confirmar tu programa de viaje.</li><li>Gestionar reservas, pagos, y asistencia 24/7.</li><li>Mantenerte informado sobre nuevas experiencias, ofertas exclusivas y contenido de valor.</li><li>Cumplir obligaciones legales y regulatorias.</li></ul><p>Los datos pueden incluir nombre y apellidos, número de pasaporte, fecha de nacimiento, correo electrónico, teléfono, dirección, preferencias de viaje, información médica relevante para tu seguridad y datos de pago.</p><h2>Base legítima y finalidad</h2><p>El tratamiento se basa en la relación contractual, tu consentimiento previo y el interés legítimo de Risun Peru Travel S.A.C. para ofrecer un servicio superior. Tus datos nunca serán utilizados para finalidades distintas a las que te hemos comunicado de forma clara y previa.</p><h2>Protección y seguridad</h2><p>Aplicamos estándares internacionales ISO/IEC 27001 y cifrado SSL de 256 bits. Nuestros servidores se encuentran en centros de datos con certificación Tier III en Lima y Cusco, con respaldos diarios y acceso restringido biométricamente. Realizamos auditorías internas semestrales y capacitación permanente al personal.</p><h2>Transferencias y encargados</h2><ul><li>Compartimos únicamente con proveedores de servicios turísticos (hoteles, guías, transporte) la información indispensable para el correcto desarrollo de tu viaje.</li><li>Todos nuestros encargados del tratamiento suscriben contratos de confidencialidad y cumplen nuestras políticas de seguridad.</li><li>No vendemos, arrendamos ni cedemos tus datos a terceros para marketing.</li></ul><h2>Comunicaciones comerciales</h2><p>Si autorizas el envío de promociones, podrás retirar tu consentimiento en cualquier momento haciendo clic en “Cancelar suscripción” al pie de cada correo o escribiendo a <strong>privacidad@terresdesincas.com</strong></p><h2>Cookies y tecnologías similares</h2><p>Nuestro sitio web utiliza cookies propias y de terceros para mejorar la experiencia de navegación, analizar el tráfico y personalizar contenido. Puedes gestionar tus preferencias desde el panel de cookies.</p><h2>Actualizaciones de la política</h2><p>Cualquier cambio será publicado en esta misma página con fecha de vigencia. Te notificaremos previamente si la modificación afecta sustancialmente tus derechos.</p><h2>Contacto</h2><p>¿Tienes dudas? Escríbenos a <strong>privacidad@terresdesincas.com</strong></p>",
+        "frase": "En Risun Peru Travel S.A.C. tu privacidad es parte del viaje perfecto."
+    },
+    "Nosotros": {
+        "nombre": "RISUN PERU TRAVEL - TOUR OPERATOR",
+        "pregunta": "Somos tu mayor confianza",
+        "contenido": "<p>En <strong>Risun Perú Travel</strong>, nos apasiona compartir la magia del Perú con viajeros de todo el mundo. Somos una agencia de turismo comprometida con brindar experiencias auténticas y personalizadas, permitiendo a nuestros clientes explorar la riqueza cultural, histórica y natural de nuestro país de manera única y significativa. Desde los majestuosos paisajes de los Andes hasta la selva amazónica y la costa peruana, diseñamos viajes que conectan con la esencia de cada destino.</p><p>Nuestro equipo está conformado por profesionales apasionados por el turismo, guías certificados y expertos en planificación de viajes. Nos esforzamos por ofrecer un servicio de alta calidad, asegurando comodidad, seguridad y una atención excepcional en cada recorrido. Además, promovemos el turismo sostenible, colaborando con comunidades locales y respetando el patrimonio cultural y natural del Perú.</p>",
+        "misionRisun": "Somos operador turístico peruano, que organizamos tu viaje a Machupichu, brindando servicios que superen las expectativas en calidad y de una manera autentica de conocer nuestra cultura y los impresionantes paisajes de los andes. ofrecemos variedad de tours tradicionales y actividades de turismo de aventura y turismo vivencial comunitario",
+        "visionRisun": "Ser una agencia de viajes reconocida a nivel nacional e internacional como unos de los pioneros en turismo de aventura y trekking y también trabajar en proyecto social con las comunidades.",
+        "equipo":"NUESTRO EQUIPO",
+        "operacionesyventas":"OPERACIONES Y VENTAS",
+        "guias":"NUESTROS GUÍAS",
+        "administacionycontabilidad":"ADMINISTRACIÓN Y CONTABILIDAD",
+        "trasnporte":"TRANSPORTE",
+        "marketing":"MARKETING"
+        
+    },
+    "Esnna": {
+        "nombre": "Código ESNNA",
+        "esnna": "NO PERTIMOS LA EXPLOTACIÓN SEXUAL DE NIÑAS, NIÑOS Y ADOLECENTES.",
+        "esnnaContenido": "<strong>NI CUALQUIER OTRO DELITO PENAL DEL CUAL TOMEMOS CONOCIMIENTO EN EL DESARROLLO DE NUESTRA ACTIVIDAD TURÍSTICA, CONFORME LO DISPUESTO EN LA LEY N° 29408</strong>",
+        "esnnaContenido2": "¿Qué es ESNNA?",
+        "esnnaContenido3": "Es el uso del cuerpo de menores de edad con fines sexuales o eróticos a cambio de dinero, objetos (regalos, comida) u otro tipo de “beneficios”. Estos no necesariamente tienen que ser físicos; podrían ser, por ejemplo, una mejora en la nota escolar o la obtención de algunos privilegios en la escuela. La explotación sexual es una violación a los derechos humanos y vulnera el desarrollo físico, social y emocional de las niñas, niños y adolescentes afectadas por esta situación",
+        "esnnaContenido4": "La ESNNA además se puede manifiestar de diversos modos y en diferentes contextos, como:La explotación sexual es una violación a los derechos humanos y vulnera el desarrollo físico, social y emocional de las niñas, niños y adolescentes afectadas por esta situación.",
+       "esnnaContenido41": "ESNNA en el ámbito del turismo y los viajes",
+       "esnnaContenido42": "ESNNA en línea (en Internet y por medio del uso de las TIC)",
+       "esnnaContenido5": "Existencia de explotadores",
+       "esnnaContenido6": "Su táctica es establecer un vínculo de poder emocional y económico sobre la víctima. Frecuentemente, utilizan estrategias de seducción y manipulación. Los agresores expresan frases como: “Si no es conmigo, será con otro”; “Le pago lo que me pide”; “No la estoy obligando”; “Le hago un favor”.",
+       "esnnaContenido7": "ESNNA que no pueden protegerse",
+       "esnnaContenido8": "La víctima (niña, niño o adolescente) a veces no es consciente de que se encuentra en situación de explotación, por desconocimiento, problemas de autoestima, entre otros. Tampoco suele contar con una red de apoyo. En muchos casos, incluso puede sentirse responsable  y expresa frases como: “Yo lo busqué”; “A mí me gustan los hombres grandes”.",
+       "esnnaContenido9": "Familias que no brindan atención",
+       "esnnaContenido10": "Las víctimas, generalmente, provienen de hogares donde reciben poca atención o supervisión. Algunos padres y madres trabajan y tienen muchas obligaciones; otras veces, tienen dificultades para comunicarse. También hay familias indiferentes ante indicios de ESNNA (cambios de comportamiento, bajo rendimiento escolar, etc.) o familias que explotan sexualmente a sus hijas o hijos.",
+       "esnnaContenido11": "SI CONOCES ALGUN CASO DE EXPLOTACIÓN",
+       "esnnaContenido12": "SEXUAL DE MENORES DE 18 AÑOS,",
+       "esnnaContenido13": "¿¡NO DUDES EN DENUNCIARLO!",
+       "esnnaContenido14": "TU DENUNCIA PUEDE SER ANÓNIMA SI ASÍ LO PREFIERES"
+
+    },
+    "filantropia": {
+        "titulo": "Turismo Responsable y Sostenible viajar consciente para proteger nuestro Planeta",
+        "p1": "<p>En<strong> Risun Peru Travel</strong>, no somos solo una agencia de viajes: somos un equipo humano, apasionado y profundamente comprometido con el desarrollo de las comunidades locales de los Andes. Creemos firmemente que el turismo debe ser una <strong>fuerza positiva</strong>, capaz de transformar vidas y crear oportunidades reales y duraderas para quienes más lo necesitan.</p>",
+        "p2": "<p><strong>Nuestra misión: apoyar la educación de los niños olvidados por el sistema.</strong></p>",
+        "p3": "<p>El sur andino del Perú es una región rica en cultura, historia y tradiciones, pero lamentablemente sigue siendo una de las más olvidadas cuando se trata del acceso a una educación de calidad. Muchos niños no cuentan con los recursos necesarios para continuar sus estudios y las escuelas rurales carecen de medios para ofrecer condiciones de aprendizaje dignas.</p>",
+        "p4": "<p>Para nosotros, <strong>nada es más importante que el futuro de estos niños</strong>. Creemos que contribuir a mejorar sus condiciones educativas es una responsabilidad profunda, no solo para preservar la cultura andina, sino también para que estos niños puedan soñar, aprender y construir su propio futuro con dignidad.</p>",
+        "p5": "<p><strong>Lo que hacemos de manera concreta</strong></p>",
+        "p6": "<ul><li>Proveer <strong>material escolar completo</strong> en cada inicio de clases, para que cada estudiante comience el año con lo necesario.</li><li>Apoyar <strong>proyectos educativos y culturales</strong> creados junto a las comunidades, respetando sus tradiciones y fortaleciendo su autonomía.</li><li>Construir o fortalecer <strong>bibliotecas y ludotecas</strong> en escuelas rurales, fomentando la lectura, el juego y la creatividad.</li><li>Organizar <strong>viajes educativos a lugares históricos como Machu Picchu</strong>, para que los niños conozcan y valoren su propio patrimonio ancestral.</li><li>Celebrar momentos de alegría como la <strong>Navidad en comunidades aisladas<strong>, creando recuerdos llenos de unión y solidaridad.</li></ul>",
+        "p7": "<p><strong>Con ustedes, esto es posible</strong></p>",
+        "p8": "<p>Cada viaje que reservas con <strong>Risun Peru Travel</strong> contribuye directamente a estas iniciativas. Una parte de nuestros ingresos se reinvierte en el apoyo a escuelas rurales andinas, en la ayuda a las familias más vulnerables y en hacer de la educación una verdadera herramienta de cambio.</p>",
+        "p9": "<p>Sabemos que el verdadero impacto social no se mide solo en kilómetros recorridos, sino en <strong>vidas transformadas</strong>. Al viajar con nosotros, te conviertes en un actor de desarrollo positivo, brindando oportunidades reales a miles de niños para que puedan estudiar, crecer y soñar en grande.</p>",
+        "p10": "<p><strong>Gracias por ser parte de un viaje que va mucho más allá de los paisajes: un viaje hacia un futuro mejor para los niños de los Andes.</strong></p>"
+    },
+    "Contactanos": {
+        "titulo": "Consulta sobre un tour? Escríbenos ...",
+        "titulo2": "Contacte con Nosotros",
+        "contactenosCont":"<p>Muchas gracias por ponerse en contacto con nosotros. Responderemos a todas las consultas por correo electrónico o redes socias en un plazo de 24 horas. También estamos localizables por chat, teléfono y esperamos conectar con usted.</p>",
+        "redesTitulo": "Contáctanos también en nuestras redes:",
+        "contacTitulo2": "Nuestra Oficina y horarios",
+        "contacTitulo3": "Ubicación:",
+        "contacTitulo4": "JR.l Libertad 1848 – B",
+        "contacTitulo5": "Horarios:",
+        "contacTitulo6": "Lunes a Domingos",
+        "contacTitulo7": "8:00 a.m. - 6:00 p.m.",
+        "contacTitulo8": "Contactanos",
+        "contacTitulo9": "Correo Principal:",
+        "contacTitulo10": "rcperutravel@gmail.com:",
+        "contacTitulo11": "Llámenos",
+        "contacTitulo12": "Celular Oficina:",
+        "contacTitulo13": "+51 955 790 495",
+        "contacTitulo14": "Celular:",
+        "contacTitulo15": "+51 921 164 809",
+        "contacTitulo16": "Whatsapp:",
+        "contacTitulo17": "+51 921 164 809",
+        "contacTitulo18": "Ubícanos"
+
+
+        
+    }
+
+    
+}
