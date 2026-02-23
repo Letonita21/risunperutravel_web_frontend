@@ -27,7 +27,7 @@ export default async function LangLayout({ children, params }) {
 
   return (
     <div className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
-      <GoogleAnalytics gaId="G-16GXS72KM7" />
+      <GoogleAnalytics gaId="G-H99RVXNPP6" />
       <CookieBanner />
       <Navbar dict={dict.Navbar} lang={lang} />
       <main className="w-full items-center justify-center flex flex-col">
