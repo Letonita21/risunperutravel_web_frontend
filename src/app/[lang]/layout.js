@@ -27,6 +27,7 @@ export default async function LangLayout({ children, params }) {
 
   return (
     <div className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+      {/* cambio de clave */}
       <GoogleAnalytics gaId="G-H99RVXNPP6" />
       <CookieBanner />
       <Navbar dict={dict.Navbar} lang={lang} />
